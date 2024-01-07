@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.listItem {
+  list-style-type: none;
+  width: 30%;
+  border: 1px solid #b5b7c4;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.liHeading {
+  font-size: 14px;
+}
+
+.starBtn {
+  background-color: transparent;
+  border: 0px;
+}
+
+.titleContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.liPara {
+  font-size: 10px;
+}
+
+.imgStar {
+  width: 15px;
+}
